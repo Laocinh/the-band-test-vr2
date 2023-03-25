@@ -32,7 +32,6 @@ html{
 }
 .mt-8 {
     margin-top: 8px !important;
-
 }
 
 .mt-16 {
@@ -190,8 +189,8 @@ padding-right: 8px;
       position: relative;
       margin-top: 46px;
       padding-top: 50%;
-      background: url('/assets/css/img/chicago.jpg') top center / cover no-repeat;
-  
+      background: url('img/chicago.jpg') top center / cover no-repeat; 
+  /* hiện tại cái link trên nó không có tồn tại á em bây h phải sửa lại cái link này đấy */
   }
  #slider .text-content{
     position: absolute;
